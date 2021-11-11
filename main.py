@@ -69,7 +69,6 @@ def run(task_type,last_time=1800):
 
 
 if __name__=="__main__":
-    choose_language = r'C:\Users\wan\Desktop\Yohero\lan01.png'
     pvp_button = r'C:\Users\wan\Desktop\Yohero\pvp.png'
     ok_button = r'C:\Users\wan\Desktop\Yohero\ok_button.png'
     challeng_button = r'C:\Users\wan\Desktop\Yohero\challeng.png'

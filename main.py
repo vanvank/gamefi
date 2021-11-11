@@ -69,7 +69,7 @@ def run(task_type,last_time=1800):
 
 
 if __name__=="__main__":
-    pvp_button = r'C:\Users\wan\Desktop\Yohero\pvp.png'
-    ok_button = r'C:\Users\wan\Desktop\Yohero\ok_button.png'
-    challeng_button = r'C:\Users\wan\Desktop\Yohero\challeng.png'
-    run(2)
+    pvp_button = r'.\pvp.png'
+    ok_button = r'.\ok_button.png'
+    challeng_button = r'.\challeng.png'
+    run(3)
